@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:05,040
+How many times do you need to shuffle a deck of cards to make them truly random?
+
+2
+00:00:05,040 --> 00:00:08,080
+How much uranium does it take to build a nuclear bomb?
+
+3
+00:00:09,920 --> 00:00:12,720
+How can you predict the next word in a sentence?
+
+4
+00:00:12,720 --> 00:00:16,880
+And how does Google know which page you're actually searching for?
+
+5
+00:00:16,880 --> 00:00:20,880
+Well the reason we know the answer to all of these questions is because of a strange
+
+6
+00:00:20,880 --> 00:00:24,640
+math feud in Russia that took place over a hundred years ago.
+
+7
+00:00:25,600 --> 00:00:32,560
+In 1905 socialist groups all across Russia rose up against the Tsar, the ruler of the empire.
+
+8
+00:00:32,560 --> 00:00:38,560
+They demanded a complete political reform or failing that that he stepped down from power entirely.
+
+9
+00:00:38,560 --> 00:00:43,840
+This defied the nation into two. So on one side you got the Tsarists, right?
+
+10
+00:00:43,840 --> 00:00:47,760
+They wanted to defend the status quo and keep the Tsar in power.
+
+11
+00:00:47,760 --> 00:00:52,720
+But then on the other side you have the socialists who wanted this complete political reform.
+
